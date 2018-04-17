@@ -1,2 +1,2 @@
 # usaf-recruiting-pa
-USAF Recruiting Services Path Analysis
+USAF Recruiting Service Path Analysis
