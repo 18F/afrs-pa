@@ -56,7 +56,7 @@ The current team is using a Functional Review Board (FRB) with a 5-6 week cadenc
 ## Product vision
 
 - Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
-- Develop a more data-centric system that users can access more readily with less training
+- A more data-centric system that users can access more readily with less training
 - Present users a functional, modern interface
 - Help recruiters spend more time recruiting and less time interacting with the system and waiting on approvals
 - Develop better reporting so leaders and recruiters have even more information to inform their work
