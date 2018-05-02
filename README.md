@@ -18,15 +18,6 @@ The Department of Defense (DoD) has engaged with 18F in a path analysis to asses
 While 18F will not specify the future state system over the course of the eight-week effort, it will help set direction and promote alignment within AFRS around which aspects of a new system are most important to pursue.
 
 
-## Product vision
-
-- Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
-- Develop a more data-centric system that users can access more readily with less training
-- Present users a functional, modern interface
-- Help recruiters spend more time recruiting and less time interacting with the system and waiting on approvals
-- Develop better reporting so leaders and recruiters have even more information to inform their work
-
-
 ## Users and stakeholders
 
 AFRS comprises three regional groups and 27 squadrons with more than 1,200 recruiters assigned throughout the United States, England, Germany, Japan, Puerto Rico and Guam. The Air Force brings in nearly 24,000 active-duty enlisted accessions each year. The command is responsible for accessing 100 percent of the enlisted force, 90 percent of the service's medical officers, approximately 25 percent of the line officers (through Officer Training School) and 100 percent of Air Force chaplains.
@@ -61,6 +52,15 @@ The operational and training environments are currently hosted at the Defense In
 ## Development
 
 The current team is using a Functional Review Board (FRB) with a 5-6 week cadence for making software enhancements, including patching and adding new capabilities. Generally, all components must agree on what enhancements are prioritized. 
+
+## Product vision
+
+- Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
+- Develop a more data-centric system that users can access more readily with less training
+- Present users a functional, modern interface
+- Help recruiters spend more time recruiting and less time interacting with the system and waiting on approvals
+- Develop better reporting so leaders and recruiters have even more information to inform their work
+
 
 ## Our approach
 The following five sections represent prioritized areas related to AFRISS-TF that we would like to explore as we determine a path to modernize the system to better meet the needs of its users during this engagement and beyond. 
