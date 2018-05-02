@@ -82,20 +82,20 @@ The engagement focuses on identifying the key capabilities and characteristics o
 
 ## Risks and mitigations
 
-Risk: If it takes time to identify/schedule research participants, this could reduce our potential impact.  
-Mitigation: We press hard for contacts/interviews but move forward with other work in the meantime.
+**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
+**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
 
-Risk: Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
-Mitigation: Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
+**Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
+**Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
 
-Risk: Important concerns go unaddressed until they swell into larger problems.  
-Mitigation: Surface obstacles and anxieties early so we can address them as they arise.
+**Risk:** Important concerns go unaddressed until they swell into larger problems.  
+**Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
 
-Risk: Balancing/prioritizing needs of three different components (Air Force, Reserve, Guard) could result in us either not targeting the highest-value opportunities or possibly spreading our efforts unnecessarily thin.  
-Mitigation: Determine when the time is right to focus on just one component and when it is best to include all three.
+**Risk:** Balancing/prioritizing needs of three different components (Air Force, Reserve, Guard) could result in us either not targeting the highest-value opportunities or possibly spreading our efforts unnecessarily thin.  
+**Mitigation:** Determine when the time is right to focus on just one component and when it is best to include all three.
 
-Risk: If recommendations are not grounded in technical reality, roadmap delivered will not be actionable.  
-Mitigation: Bring on 18F engineer to support team. Partner continue to help with access to AFRS and vendor teams.
+**Risk:** If recommendations are not grounded in technical reality, roadmap delivered will not be actionable.  
+**Mitigation:** Bring on 18F engineer to support team. Partner continue to help with access to AFRS and vendor teams.
 
 
 ## Tools
@@ -114,13 +114,13 @@ Mitigation: Bring on 18F engineer to support team. Partner continue to help with
 
 ### AFRS
 
-**Lt. Col. Gralyn Wimberly (Product Owner)** — Serve as single point of contact for AFRS for purposes of decisions needed to move the engagement forward. Collaborate with the development team. Keep team and stakeholders informed, soliciting their feedback. Highlight and work to mitigate risks. Communicate feedback and help prioritize the team’s effort. Assist with research recruitment, data collection, and analysis.
+**Lieutenant Colonel Gralyn Wimberly (Product Owner)** — Serve as single point of contact for AFRS for purposes of decisions needed to move the engagement forward. Collaborate with the development team. Keep team and stakeholders informed, soliciting their feedback. Highlight and work to mitigate risks. Communicate feedback and help prioritize the team’s effort. Assist with research recruitment, data collection, and analysis.
 
 **Master Sergeant Jared Martin** — Serve as subject-matter expert (SME). Assist with research recruitment, data collection, and analysis. Backup PO.
 
 ### 18F
 
-**James Hupp (Content designer/strategist)** — Evaluate existing content artifacts. Lead research recruitment, data collection, and analysis.
+**James Hupp (Content Designer/Strategist)** — Evaluate existing content artifacts. Lead research recruitment, data collection, and analysis.
 
 **Andrew Suprenant (Product Manager)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
 
