@@ -18,7 +18,7 @@ The Department of Defense (DoD) has engaged with 18F in a path analysis to asses
 While 18F will not specify the future state system over the course of the eight-week effort, it will help set direction and promote alignment within AFRS around which aspects of a new system are most important to pursue.
 
 
-## Product
+## Product vision
 
 - Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
 - Develop a more data-centric system that users can access more readily with less training
@@ -118,7 +118,7 @@ Mitigation: Bring on 18F engineer to support team. Partner continue to help with
 
 **Master Sergeant Jared Martin** — Serve as subject-matter expert (SME). Assist with research recruitment, data collection, and analysis. Backup PO.
 
-## 18F
+### 18F
 
 **James Hupp (Content designer/strategist)** — Evaluate existing content artifacts. Lead research recruitment, data collection, and analysis.
 
