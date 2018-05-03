@@ -1,7 +1,7 @@
 # US Air Force Recruiting Service Path Analysis
 
 ## Welcome!
-This repository contains documentation describing the Air Force Recruiting Service (AFRS) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resouces as we work together. 
+This repository contains documentation describing the Air Force Recruiting Service (AFRS) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resources as we work together. 
 
 ## History
 
