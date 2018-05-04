@@ -91,7 +91,7 @@ The engagement focuses on identifying the key capabilities and characteristics o
 **Risk:** Important concerns go unaddressed until they swell into larger problems.  
 **Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
 
-**Risk:** Balancing/prioritizing needs of three different components (Air Force, Reserve, Guard) could result in us either not targeting the highest-value opportunities or possibly spreading our efforts unnecessarily thin.  
+**Risk:** Balancing/prioritizing needs of three different components could result in us either not targeting the highest-value opportunities or possibly spreading our efforts unnecessarily thin.  
 **Mitigation:** Determine when the time is right to focus on just one component and when it is best to include all three.
 
 **Risk:** If recommendations are not grounded in technical reality, roadmap delivered will not be actionable.  
