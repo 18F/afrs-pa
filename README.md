@@ -27,7 +27,7 @@ AFRS comprises three regional groups and 27 squadrons with more than 1,200 recru
 
 ### AFRS Project Management Office (PMO)
 
-The system is managed by a product owner and three other deputy program managers that represent the three components. 
+The system is managed by a product owner and three other deputy program managers that represent the three Air Force components (Active Duty, Reserve, and Air National Guard) 
 
 ### Vendor
 
@@ -36,7 +36,7 @@ A contractor and subcontractor provide project management, system administration
 
 ## System
 
-AFRISS-TF is the system of record for all session processing activities for all three Air Force components (Active Duty, Reserve, and Air National Guard). It contains all information collected from first contact with a candidate through an individual being sworn in and being shipped for training.
+AFRISS-TF is the system of record for all session processing activities for all three Air Force components. It contains all information collected from first contact with a candidate through an individual being sworn in and being shipped for training.
 
 Information contained within the system includes (but is not limited to): 
  - Leads (i.e. data pertaining to recruited candidates)
@@ -114,7 +114,7 @@ The engagement focuses on identifying the key capabilities and characteristics o
 
 ### AFRS
 
-**Lieutenant Colonel Gralyn Wimberly (Product Owner)** — Serve as single point of contact for AFRS for purposes of decisions needed to move the engagement forward. Collaborate with the development team. Keep team and stakeholders informed, soliciting their feedback. Highlight and work to mitigate risks. Communicate feedback and help prioritize the team’s effort. Assist with research recruitment, data collection, and analysis.
+**Lieutenant Colonel Grayln Wimberly (Product Owner)** — Serve as single point of contact for AFRS for purposes of decisions needed to move the engagement forward. Collaborate with the development team. Keep team and stakeholders informed, soliciting their feedback. Highlight and work to mitigate risks. Communicate feedback and help prioritize the team’s effort. Assist with research recruitment, data collection, and analysis.
 
 **Master Sergeant Jared Martin** — Serve as subject-matter expert (SME). Assist with research recruitment, data collection, and analysis. Backup PO.
 
