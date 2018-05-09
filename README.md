@@ -103,6 +103,8 @@ The engagement focuses on identifying the key capabilities and characteristics o
  - [Statement of Work](https://docs.google.com/document/d/1sRO7MsKep3qxmNSQkCK7-LgwH4ukavb6PasWjU-aCJQ/edit)
  - [Google Drive folder](https://drive.google.com/drive/u/0/folders/15_hzcako6YoYnSl_0apZHuLhLVpLTLkS) 
  - [Trello board](https://trello.com/b/1LRQgbGk/usaf-recruiting-service-path-analysis)
+ - [18F Slack channel: #afrs-pa](https://gsa-tts.slack.com/messages/C9ZR4TZ5G)
+ - [Partner Slack channel: #afrs-pa-partner](https://gsa-tts.slack.com/messages/CACCX3069)
 
 
 ## Tock and staffing
