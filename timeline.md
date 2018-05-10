@@ -1,12 +1,9 @@
 # Timeline
 
-Here are key dates related to Air Force Recruiting Information Support System-Total Force (AFRISS-TF):
-
-**2018**
- - 18F Path Analysis begins
+Here are key dates related to Air Force Recruiting Information Support System-Total Force (AFRISS-TF) leading up to this path analysis:
 
 **2016**
- - Continuous Process Improvement (CPI) event held to eliminnate 100 pieces of paper per recruit going to basic training (i.e. "eliminate the manila folder")
+ - Continuous Process Improvement (CPI) event held to eliminate 100 pieces of paper per recruit going to basic training (i.e. "eliminate the manila folder")
 
 **2015**
  - Start of new sustainment contractor, DTSI, with Dulcian retained as subcontractor for development
@@ -20,7 +17,7 @@ Here are key dates related to Air Force Recruiting Information Support System-To
  - Interim Authority to Test granted by DISA
  - Requirement verification/refinement workshops
  - New Memorandum of Agreement (MOA) signed; project management concept of operations (CONOPS) established
- - Change in Project manaagement office
+ - Change in project management office
 
 **2012**
  - Baseline test yields vote of confidence by components
@@ -30,7 +27,7 @@ Here are key dates related to Air Force Recruiting Information Support System-To
  - Air Force IT governance board directs change in hosting strategy due to PII Task Force
 
 **2011**
- - Contract awarded to Lockheed-Martin
+ - Contract awarded to Lockheed-Martin to develop AFRISS-TF
 
 **2010**
  - MOA signed by all three components
