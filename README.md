@@ -124,6 +124,8 @@ The engagement focuses on identifying the key capabilities and characteristics o
 
 **James Hupp (Content Designer/Strategist)** — Evaluate existing content artifacts. Lead research recruitment, data collection, and analysis.
 
+**Adam Kendall (Engineering)** Leads system analysis as full-stack web software architect and system admin. Assesses legacy system and frames possible frontend and backend improvements.
+
 **Andrew Suprenant (Product Manager)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
 
 **Kenny Daniel (Account Manager)** — Provide support to project team and serve as liaison between AFRS and 18F. 
