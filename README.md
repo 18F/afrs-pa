@@ -5,8 +5,8 @@ This repository contains documentation describing the Air Force Recruiting Servi
 
 ## History
 
-### AFRS
-
+### AFRS (You will need to also look at the AFRC and ANG recruiting websites to gather their leadership info and mission statements) 
+http://www.afrc.af.mil/Units/Reserve-Recruiting/ (https://www.afreserve.com/); http://www.ang.af.mil/about/ANGRC/ (look under careers tab), (gang.com)
 The mission of Air Education and Training Command (AETC) begins with the Air Force Recruiting Service (AFRS), with headquarters at JBSA-Randolph, Texas. The AFRS mission is to recruit quality men and women with the right skills, at the right time, in the right numbers to sustain the combat capability of the U.S. Air Force. 
 
 (adapted from http://www.aetc.af.mil/Air-Force-Recruiting-Service/)
@@ -19,7 +19,7 @@ While 18F will not specify the future state system over the course of the eight-
 
 
 ## Users and stakeholders
-
+(This statement only covers AD, you will need to gather Guard and Reserve numbers also, SMSgt Rodriguez for Reserve, and SMSgt Conaway for the Guard)
 AFRS comprises three regional groups and 27 squadrons with more than 1,200 recruiters assigned throughout the United States, England, Germany, Japan, Puerto Rico and Guam. The Air Force brings in nearly 24,000 active-duty enlisted accessions each year. The command is responsible for accessing 100 percent of the enlisted force, 90 percent of the service's medical officers, approximately 25 percent of the line officers (through Officer Training School) and 100 percent of Air Force chaplains.
 
 (from http://www.aetc.af.mil/Air-Force-Recruiting-Service/)
@@ -27,7 +27,7 @@ AFRS comprises three regional groups and 27 squadrons with more than 1,200 recru
 
 ### AFRS Project Management Office (PMO)
 
-The system is managed by a product owner and three other deputy program managers that represent the three Air Force components (Active Duty, Reserve, and Air National Guard) 
+The system is managed by a product owner, three other deputy program managers that represent the three Air Force components (Active Duty, Reserve, and Air National Guard), and a technical advisor.
 
 ### Vendor
 
@@ -55,7 +55,7 @@ The current team is using a Functional Review Board (FRB) with a 5-6 week cadenc
 
 ## Product vision
 
-- Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
+- Shape the Air Force of tomorrow - Inspire, Engage, and Recruit (We talked about changing this)
 - A more data-centric system that users can access more readily with less training
 - Present users a functional, modern interface
 - Help recruiters spend more time recruiting and less time interacting with the system and waiting on approvals
