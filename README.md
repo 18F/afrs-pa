@@ -99,12 +99,20 @@ The engagement focuses on identifying the key capabilities and characteristics o
 
 
 ## Tools
- - [Team notes document](https://docs.google.com/document/d/1t5LBQJKpPr0poo91VDw96UE4qhISYygmZ2OyBWXNEZA/edit#)
+
  - [Statement of Work](https://docs.google.com/document/d/1sRO7MsKep3qxmNSQkCK7-LgwH4ukavb6PasWjU-aCJQ/edit)
  - [Google Drive folder](https://drive.google.com/drive/u/0/folders/15_hzcako6YoYnSl_0apZHuLhLVpLTLkS) 
  - [Trello board](https://trello.com/b/1LRQgbGk/usaf-recruiting-service-path-analysis)
  - [18F Slack channel: #afrs-pa](https://gsa-tts.slack.com/messages/C9ZR4TZ5G)
  - [Partner Slack channel: #afrs-pa-partner](https://gsa-tts.slack.com/messages/CACCX3069)
+ 
+ 
+ ## Reference
+ 
+ - [Team notes](https://docs.google.com/document/d/1t5LBQJKpPr0poo91VDw96UE4qhISYygmZ2OyBWXNEZA/edit#)
+ - [Research notes](https://docs.google.com/document/d/1LR3H4qS-0JOQGfJ5WLti_v4AJ60RtzCD9YEQ6YwlQXo/edit)
+ - [Acronyms dictionary](https://github.com/18F/afrs-pa/blob/master/acronyms.md)
+ - [Product timeline](https://github.com/18F/afrs-pa/blob/master/timeline.md)
 
 
 ## Tock and staffing
@@ -129,8 +137,6 @@ The engagement focuses on identifying the key capabilities and characteristics o
 **Andrew Suprenant (Product Manager)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
 
 **Kenny Daniel (Account Manager)** — Provide support to project team and serve as liaison between AFRS and 18F. 
-
-
 
 
 ## Contributing
