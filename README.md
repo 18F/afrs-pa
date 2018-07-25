@@ -136,7 +136,7 @@ The engagement focuses on identifying the key capabilities and characteristics o
 
 **Andrew Suprenant (Product Manager)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
 
-**Kenny Daniel (Account Manager)** — Provide support to project team and serves as liaison between AFRS and 18F. 
+**Kenny Daniel (Account Manager)** — Provide support to project team and serve as liaison between AFRS and 18F. 
 
 
 ## Contributing
