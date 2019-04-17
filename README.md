@@ -53,6 +53,12 @@ The operational and training environments are currently hosted at the Defense In
 
 The current team is using a Functional Review Board (FRB) with a 5-6 week cadence for making software enhancements, including patching and adding new capabilities. Generally, all components must agree on what enhancements are prioritized. 
 
+
+
+## Problem statement
+
+Air Force recruiters, flight chiefs, and other people in the recruiting process find it difficult to perform both core and emerging work in AFRISS-TF when and where that work provides maximum benefit. Because of the way the system is structured and managed, it is difficult to make the changes that can improve its performance for users.
+
 ## Product vision
 
 - Shape the Air Force of tomorrow - Inspire, Engage, and Recruit
